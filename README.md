@@ -4,4 +4,4 @@ Create an CLI application that takes a sum as a string in either digits, spanish
 
 The string will be two numbers and an infix operator (+/mas/plus).
 
-Max number is 999 and min number is 0.
+Max number is 999, and min number is 0.
